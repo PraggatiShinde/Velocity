@@ -13,6 +13,7 @@ public class Test {
 	list.add(70);
 	list.add(40);
 	System.out.println(list);
+	System.out.println(list.size());
 	}
 
 }
