@@ -10,6 +10,10 @@ public class HashSets {
 		set.add(40);
 		set.add(60);
 		System.out.println(set);
+		for (Integer i: set) {
+			System.out.println(i);
+		}
+		
 	}
 
 }
